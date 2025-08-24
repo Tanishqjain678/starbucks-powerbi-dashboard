@@ -24,3 +24,4 @@ It shows key insights like top products, sales by hour, and customer preferences
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.jpg)
+Note: The .pbix file is too large to preview directly on GitHub, but it can be downloaded and opened in Power BI Desktop
