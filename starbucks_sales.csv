@@ -1,0 +1,11 @@
+Date,Store,Product,Quantity,SalesAmount
+2023-01-01,New York,Latte,20,80
+2023-01-02,Chicago,Espresso,15,60
+2023-01-03,Seattle,Cappuccino,18,72
+2023-01-04,Boston,Mocha,22,88
+2023-01-05,San Francisco,Cold Brew,25,100
+2023-01-06,New York,Latte,19,76
+2023-01-07,Chicago,Espresso,14,56
+2023-01-08,Seattle,Cappuccino,20,80
+2023-01-09,Boston,Mocha,23,92
+2023-01-10,San Francisco,Cold Brew,21,84
